@@ -1,0 +1,272 @@
+Uri: https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js
+File Name: D:\Software Development\web-clones\maxence.cc\npm\gsap@3.12.5\dist\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js
+File Name: D:\Software Development\web-clones\maxence.cc\npm\gsap@3.12.5\dist\ScrollTrigger.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap
+File Name: D:\Software Development\web-clones\maxence.cc\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap
+File Name: D:\Software Development\web-clones\maxence.cc\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_907NSg.ttf
+File Name: D:\Software Development\web-clones\maxence.cc\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_907NSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0nNSg.ttf
+File Name: D:\Software Development\web-clones\maxence.cc\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0nNSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KU7NSg.ttf
+File Name: D:\Software Development\web-clones\maxence.cc\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KU7NSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KUnNSg.ttf
+File Name: D:\Software Development\web-clones\maxence.cc\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KUnNSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_m07NSg.ttf
+File Name: D:\Software Development\web-clones\maxence.cc\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_m07NSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_qU7NSg.ttf
+File Name: D:\Software Development\web-clones\maxence.cc\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_qU7NSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_TknNSg.ttf
+File Name: D:\Software Development\web-clones\maxence.cc\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_TknNSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0lCR_Q.ttf
+File Name: D:\Software Development\web-clones\maxence.cc\s\plusjakartasans\v8\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0lCR_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0XCR_Q.ttf
+File Name: D:\Software Development\web-clones\maxence.cc\s\plusjakartasans\v8\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0XCR_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ17CR_Q.ttf
+File Name: D:\Software Development\web-clones\maxence.cc\s\plusjakartasans\v8\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ17CR_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lCR_Q.ttf
+File Name: D:\Software Development\web-clones\maxence.cc\s\plusjakartasans\v8\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lCR_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lDh_Q.ttf
+File Name: D:\Software Development\web-clones\maxence.cc\s\plusjakartasans\v8\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lDh_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ37Dh_Q.ttf
+File Name: D:\Software Development\web-clones\maxence.cc\s\plusjakartasans\v8\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ37Dh_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ3CDh_Q.ttf
+File Name: D:\Software Development\web-clones\maxence.cc\s\plusjakartasans\v8\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ3CDh_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacemono/v15/i7dMIFZifjKcF5UAWdDRaPpZYFI.ttf
+File Name: D:\Software Development\web-clones\maxence.cc\s\spacemono\v15\i7dMIFZifjKcF5UAWdDRaPpZYFI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacemono/v15/i7dNIFZifjKcF5UAWdDRYER8QA.ttf
+File Name: D:\Software Development\web-clones\maxence.cc\s\spacemono\v15\i7dNIFZifjKcF5UAWdDRYER8QA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacemono/v15/i7dPIFZifjKcF5UAWdDRUEY.ttf
+File Name: D:\Software Development\web-clones\maxence.cc\s\spacemono\v15\i7dPIFZifjKcF5UAWdDRUEY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacemono/v15/i7dSIFZifjKcF5UAWdDRYERE_FeaGw.ttf
+File Name: D:\Software Development\web-clones\maxence.cc\s\spacemono\v15\i7dSIFZifjKcF5UAWdDRYERE_FeaGw.ttf
+Content Type: font/ttf
+
+Uri: https://maxence.cc/
+File Name: D:\Software Development\web-clones\maxence.cc\index.htm
+Content Type: text/html
+
+Uri: https://maxence.cc/assets/arrow.svg
+File Name: D:\Software Development\web-clones\maxence.cc\assets\arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://maxence.cc/assets/close.svg
+File Name: D:\Software Development\web-clones\maxence.cc\assets\close.svg
+Content Type: image/svg+xml
+
+Uri: https://maxence.cc/assets/cv.png
+File Name: D:\Software Development\web-clones\maxence.cc\assets\cv.png
+Content Type: image/png
+
+Uri: https://maxence.cc/assets/favicon.ico
+File Name: D:\Software Development\web-clones\maxence.cc\assets\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://maxence.cc/assets/favicon.png
+File Name: D:\Software Development\web-clones\maxence.cc\assets\favicon.png
+Content Type: image/png
+
+Uri: https://maxence.cc/assets/fonts/MonaSans.woff2
+File Name: D:\Software Development\web-clones\maxence.cc\assets\fonts\MonaSans.woff2
+Content Type: application/octet-stream
+
+Uri: https://maxence.cc/assets/github-black.svg
+File Name: D:\Software Development\web-clones\maxence.cc\assets\github-black.svg
+Content Type: image/svg+xml
+
+Uri: https://maxence.cc/assets/header.png
+File Name: D:\Software Development\web-clones\maxence.cc\assets\header.png
+Content Type: image/png
+
+Uri: https://maxence.cc/assets/layout1.png
+File Name: D:\Software Development\web-clones\maxence.cc\assets\layout1.png
+Content Type: image/png
+
+Uri: https://maxence.cc/assets/layout2.png
+File Name: D:\Software Development\web-clones\maxence.cc\assets\layout2.png
+Content Type: image/png
+
+Uri: https://maxence.cc/assets/layout3.png
+File Name: D:\Software Development\web-clones\maxence.cc\assets\layout3.png
+Content Type: image/png
+
+Uri: https://maxence.cc/assets/layout4.png
+File Name: D:\Software Development\web-clones\maxence.cc\assets\layout4.png
+Content Type: image/png
+
+Uri: https://maxence.cc/assets/loader.svg
+File Name: D:\Software Development\web-clones\maxence.cc\assets\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://maxence.cc/assets/logo/alumet.svg
+File Name: D:\Software Development\web-clones\maxence.cc\assets\logo\alumet.svg
+Content Type: image/svg+xml
+
+Uri: https://maxence.cc/assets/logo/discord-company.svg
+File Name: D:\Software Development\web-clones\maxence.cc\assets\logo\discord-company.svg
+Content Type: image/svg+xml
+
+Uri: https://maxence.cc/assets/logo/discords.svg
+File Name: D:\Software Development\web-clones\maxence.cc\assets\logo\discords.svg
+Content Type: image/svg+xml
+
+Uri: https://maxence.cc/assets/logo/layout.svg
+File Name: D:\Software Development\web-clones\maxence.cc\assets\logo\layout.svg
+Content Type: image/svg+xml
+
+Uri: https://maxence.cc/assets/logo/nsi.svg
+File Name: D:\Software Development\web-clones\maxence.cc\assets\logo\nsi.svg
+Content Type: image/svg+xml
+
+Uri: https://maxence.cc/assets/logo/realmemories.svg
+File Name: D:\Software Development\web-clones\maxence.cc\assets\logo\realmemories.svg
+Content Type: image/svg+xml
+
+Uri: https://maxence.cc/assets/logo/teranga.svg
+File Name: D:\Software Development\web-clones\maxence.cc\assets\logo\teranga.svg
+Content Type: image/svg+xml
+
+Uri: https://maxence.cc/assets/message.svg
+File Name: D:\Software Development\web-clones\maxence.cc\assets\message.svg
+Content Type: image/svg+xml
+
+Uri: https://maxence.cc/assets/path/conference.jpg
+File Name: D:\Software Development\web-clones\maxence.cc\assets\path\conference.jpg
+Content Type: image/jpeg
+
+Uri: https://maxence.cc/assets/path/discord.png
+File Name: D:\Software Development\web-clones\maxence.cc\assets\path\discord.png
+Content Type: image/png
+
+Uri: https://maxence.cc/assets/path/edu.jpg
+File Name: D:\Software Development\web-clones\maxence.cc\assets\path\edu.jpg
+Content Type: image/jpeg
+
+Uri: https://maxence.cc/assets/path/sup.png
+File Name: D:\Software Development\web-clones\maxence.cc\assets\path\sup.png
+Content Type: image/png
+
+Uri: https://maxence.cc/assets/plan.png
+File Name: D:\Software Development\web-clones\maxence.cc\assets\plan.png
+Content Type: image/png
+
+Uri: https://maxence.cc/assets/projects/720p.mp4
+File Name: D:\Software Development\web-clones\maxence.cc\assets\projects\720p.mp4
+Content Type: video/mp4
+
+Uri: https://maxence.cc/assets/skill1.svg
+File Name: D:\Software Development\web-clones\maxence.cc\assets\skill1.svg
+Content Type: image/svg+xml
+
+Uri: https://maxence.cc/assets/skill2.svg
+File Name: D:\Software Development\web-clones\maxence.cc\assets\skill2.svg
+Content Type: image/svg+xml
+
+Uri: https://maxence.cc/assets/skill3.svg
+File Name: D:\Software Development\web-clones\maxence.cc\assets\skill3.svg
+Content Type: image/svg+xml
+
+Uri: https://maxence.cc/assets/skill4.svg
+File Name: D:\Software Development\web-clones\maxence.cc\assets\skill4.svg
+Content Type: image/svg+xml
+
+Uri: https://maxence.cc/assets/skill5.svg
+File Name: D:\Software Development\web-clones\maxence.cc\assets\skill5.svg
+Content Type: image/svg+xml
+
+Uri: https://maxence.cc/assets/skill6.svg
+File Name: D:\Software Development\web-clones\maxence.cc\assets\skill6.svg
+Content Type: image/svg+xml
+
+Uri: https://maxence.cc/assets/skill7.svg
+File Name: D:\Software Development\web-clones\maxence.cc\assets\skill7.svg
+Content Type: image/svg+xml
+
+Uri: https://maxence.cc/assets/skill8.svg
+File Name: D:\Software Development\web-clones\maxence.cc\assets\skill8.svg
+Content Type: image/svg+xml
+
+Uri: https://maxence.cc/assets/skill9.svg
+File Name: D:\Software Development\web-clones\maxence.cc\assets\skill9.svg
+Content Type: image/svg+xml
+
+Uri: https://maxence.cc/assets/success.svg
+File Name: D:\Software Development\web-clones\maxence.cc\assets\success.svg
+Content Type: image/svg+xml
+
+Uri: https://maxence.cc/assets/user.png
+File Name: D:\Software Development\web-clones\maxence.cc\assets\user.png
+Content Type: image/png
+
+Uri: https://maxence.cc/index.js
+File Name: D:\Software Development\web-clones\maxence.cc\index.js
+Content Type: application/javascript
+
+Uri: https://maxence.cc/notifier.js
+File Name: D:\Software Development\web-clones\maxence.cc\notifier.js
+Content Type: application/javascript
+
+Uri: https://maxence.cc/style.css
+File Name: D:\Software Development\web-clones\maxence.cc\style.css
+Content Type: text/css
+
+Uri: https://queue.simpleanalyticscdn.com/noscript.gif
+File Name: D:\Software Development\web-clones\maxence.cc\noscript.gif
+Content Type: image/gif
+
+Uri: https://scripts.simpleanalyticscdn.com/latest.js
+File Name: D:\Software Development\web-clones\maxence.cc\latest.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/@studio-freight/lenis@1.0.39/dist/lenis.min.js
+File Name: D:\Software Development\web-clones\maxence.cc\@studio-freight\lenis@1.0.39\dist\lenis.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/split-type@0.3.4/umd/index.min.js
+File Name: D:\Software Development\web-clones\maxence.cc\split-type@0.3.4\umd\index.min.js
+Content Type: application/javascript
+
